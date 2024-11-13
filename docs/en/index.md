@@ -3,17 +3,17 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: MCJPG
-  text: MC Server Exchange Organization
-  tagline: An organization dedicated to Minecraft technical communication and server promotion</br>Whether you're a player or a server owner, this is an excellent community for communication!
+  name: MCJPG!
+  text: MCJPG!
+  tagline: MCJPG!致力与项目多样性和组织完善
   image:
     src: /logo.png
     alt: MCJPG Organization
   actions:
-    - text: Join Group
+    - text: 加入MCJPG群组
       link: https://qm.qq.com/q/bAZle5ABzy
     - theme: sponsor
-      text: MC Nav
+      text: MC导航
       link: /en/nav/
     - theme: sponsor
       text: Columns
@@ -23,9 +23,9 @@ features:
   - icon:
       src: /logo.png
     title: Instruction
-    details: Please go to the Chinese page for the list of servers
-    link: /
-    linkText: Go!
+    details: 此页面根据MCJPG英文版修改，参与项目请：
+    link: https://github.com/NanShengtEAM/backup-MCJPG-
+    linkText: Go To WE Github
 
 ---
 
