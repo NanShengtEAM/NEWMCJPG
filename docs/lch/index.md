@@ -26,7 +26,7 @@ features:
     details: 此页面根据MCJPG文言文版修改，参与项目请：
     link: https://github.com/NanShengtEAM/backup-MCJPG-
     linkText: Go To WE Github
- - icon:
+  - icon:
       src: /logo.png
     title: Instruction
     details: 回到原版：
