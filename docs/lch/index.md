@@ -23,14 +23,20 @@ features:
   - icon:
       src: /logo.png
     title: Instruction
-    details: 此页面根据MCJPG英文版修改，参与项目请：
+    details: 此页面根据MCJPG文言文版修改，参与项目请：
     link: https://github.com/NanShengtEAM/backup-MCJPG-
     linkText: Go To WE Github
+ - icon:
+      src: /logo.png
+    title: Instruction
+    details: 回到原版：
+    link: /
+    linkText: Go
 
 ---
 
 <style>
-/*爱的魔力转圈圈*/
+/*AI OF TURN*/
 .m-home-layout .image-src:hover {
   transform: translate(-50%, -50%) rotate(666turn);
   transition: transform 59s 1s cubic-bezier(0.3, 0, 0.8, 1);
@@ -47,7 +53,7 @@ features:
 }
 </style>
 <confetti />
-<!-- ---
+<!-- 下面部分仅供LCH参考作用，正式使用请删除！---
 layout: home
 layoutClass: 'm-home-layout'
 
@@ -79,7 +85,7 @@ features:
 ---
 
 <style>
-/*愛之魔力轉圈*/
+/*AI OF TURN*/
 .m-home-layout .image-src:hover {
   transform: translate(-50%, -50%) rotate(666turn);
   transition: transform 59s 1s cubic-bezier(0.3, 0, 0.8, 1);
