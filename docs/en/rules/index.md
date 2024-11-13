@@ -4,6 +4,7 @@ description: MCJPG Organization Rules
 next: false
 editLink: false
 ---
+# Warning! You're using the demo version, it's not the final quality!
 # MCJPG Organization Rules and Regulations
 
 1. The **MCJPG** organization is a coordinated entity formed by server hosts such as 随风潜入夜 FireGuo 二氧化钛 Weasd-QAQ among others, for mutual development.
@@ -61,7 +62,7 @@ Promotion Link:
 
 If you have a GitHub account, you can directly submit a pull request according to the website repository guidelines to help us update the server list.
 
-Our GitHub page: https://github.com/MineJPGcraft/MCJPG
+Origin MCJPG GitHub page: https://github.com/MineJPGcraft/MCJPG
 
 Contributors who help us add servers:
 
