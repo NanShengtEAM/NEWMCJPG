@@ -4,7 +4,7 @@ description: MCJPG Organization Rules
 next: false
 editLink: false
 ---
-# Warning! You're using the demo version, it's not the final quality!
+> [!WARNING] Warning! You're using the demo version, it's not the final quality!
 # MCJPG Organization Rules and Regulations
 
 1. The **MCJPG** organization is a coordinated entity formed by server hosts such as 随风潜入夜 FireGuo 二氧化钛 Weasd-QAQ among others, for mutual development.
