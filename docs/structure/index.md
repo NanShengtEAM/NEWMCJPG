@@ -23,8 +23,7 @@ const code = [
         },
          link: 'https://space.bilibili.com/495322167' }
     ]
-  },
-  {
+  }
 ]
 
 const community = [
@@ -33,10 +32,6 @@ const community = [
     name: 'Xiaosan',
     title: '宣传',
     desc: '曙光生电服务器腐竹，唯一开学后有很多时间的人',
-  },
-  {
-    ]
-
   }
 ]
 
@@ -46,8 +41,6 @@ const publicise = [
     name: '二氧化钛',
     title: '剪辑',
     desc: 'MCIC服主',
-  },
-  {
   }
 ]
 
@@ -57,25 +50,25 @@ const publicise = [
 
   <VPTeamPageTitle>
     <template #title>我们的团队</template>
-    <template #lead>认识一下 MCJPG 背后的成员，这是一个 MC服务器 技术交流与宣传组织，致力于通过更快、更安全的软件和更完善的宣传改善服务器生态</template>
+    <template #lead>认识一下 MCJPG 背后的成员，这是一个 MC服务器 技术交流与宣传组织，致力于通过更快、更安全的软件和更完善的宣传改善服务器生态.</template>
   </VPTeamPageTitle>
   <VPTeamPageSection>
     <template #title>开发部</template>
-    <template #lead>MCJPG 开发者帮助编写代码、审核成员服请求并保持项目的活力。通过贡献新社区服务和帮助完善旧服务，他们使 MCJPG 得以运行</template>
+    <template #lead>MCJPG 开发者帮助编写代码、审核成员服请求并保持项目的活力。通过贡献新社区服务和帮助完善旧服务，他们使 MCJPG 得以运行.</template>
     <template #members>
       <VPTeamMembers size="small" :members="code" />
     </template>
   </VPTeamPageSection>
   <VPTeamPageSection>
     <template #title>社区部</template>
-    <template #lead>MCJPG 社区部门通过审核新加入的成员服，维护交流社区的秩序，以确保 MCJPG 拥有健康向上的生命力</template>
+    <template #lead>MCJPG 社区部门通过维护交流社区的秩序以确保 MCJPG 拥有健康向上的生命力.</template>
     <template #members>
       <VPTeamMembers size="small" :members="community" />
     </template>
   </VPTeamPageSection>
   <VPTeamPageSection>
     <template #title>宣传部</template>
-    <template #lead>MCJPG 宣传部通过对组织和成员服的宣传，来让更多的人知道我们的行动</template>
+    <template #lead>MCJPG 宣传部通过对组织和成员服的宣传，来让更多的人知道我们的行动.</template>
     <template #members>
       <VPTeamMembers size="small" :members="publicise" />
     </template>
@@ -86,6 +79,6 @@ const publicise = [
 
 <center>帮助我们的贡献者们：</center>
 
-<center><a href="https://github.com/ZhuYuxuan9302/MCJPG/graphs/contributors">
+<center><a href="https://github.com/NanShengtEAM/NEWMCJPG/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=NanShengtEAM/NEWMCJPG" alt="Contributors"/>
 </a></center>
