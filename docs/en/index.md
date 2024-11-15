@@ -4,20 +4,17 @@ layoutClass: 'm-home-layout'
 
 hero:
   name: MCJPG!
-  text: MCJPG!
+  text: A NEW MCJPG PROJECTS
   tagline: MCJPG!致力与项目多样性和组织完善
   image:
     src: /logo.png
-    alt: MCJPG Organization
+    alt: MCJPG!
   actions:
     - text: 加入MCJPG群组
       link: https://qm.qq.com/q/bAZle5ABzy
     - theme: sponsor
       text: MC导航
       link: /en/nav/
-    - theme: sponsor
-      text: Columns
-      link: /en/press/
 
 features:
   - icon:
